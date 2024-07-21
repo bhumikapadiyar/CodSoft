@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color:#16262E;
+    justify-content: right;
+    
+
+    
+    
+}
+
+nav ul{
+    display: flex;
+    color: white;
+    list-style: none;
+    gap: 5vw;
+    align-items: center;
+    padding-right: 7vw;
+    font-size: 15px;
+}
+
+.sec{
+    height: 450px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #3C7A89;
+
+}
+ 
+.text{
+    color: white;
+    
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    gap: 2vw;
+
+   
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100vw;
+    
+    
+}
+
+.text p{
+    text-align: center;
+}
+.sec2{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+   
+}
+
+.box{
+    
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    
+}
+
+.boxs{
+    height: 250px;
+    width: 500px;
+    background-color: #3c7a89;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 50px;
+}
+
+.sec2 p{
+   font-size: 30px;
+}
+
+.boxs i{
+    font-size: 70px;
+
+
+}
+
+.gap{
+    height: 10px;
+    width: 100%;
+    background-color: #3c7a89;
+    
+}
+
+.contact{
+    height: 100px;
+    width: 100%;
+    background-color: #3c7a89;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    gap: 30px;
+
+}
+
+.contact a{
+    color: white;
+
+}
+
+.greet{
+    height: 50px;
+    width: 100%;
+    background-color:#16262E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+
+
+}

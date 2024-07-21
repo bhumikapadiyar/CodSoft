@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 8vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 10vmin;
+    font-size: 2vmin;
+
+}  
+.topicon{
+   
+    font-size: 3vmin;
+} 
+
+.toppage{
+    height: 8vh;
+    background-color: #040D12;
+    
+
+}
+.icon{
+    color: white;
+    margin-right: 5vmin;
+    padding-left: 1vmin;
+    padding-right: 1vmin;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+}
+.topmail p{
+    color: white;
+    font-family: sans-serif;
+}
+.landingpage{
+    height: 10vmin;
+    display: flex;
+    justify-content: center;
+   
+}
+.container2{
+    height: 10vmin;
+    width: 150vmin;
+    align-items: center;
+    display: flex;
+    font-size: 2.5vmin;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.lpage{
+    display: flex;
+}
+.landingicon{
+    margin-right:2vmin;
+}
+.pageicon{
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7vmin;
+    width: 7vmin;
+    border-radius: 10vmin;
+}
+.textpage ul{
+   
+    width: 90vmin;
+    margin-left: -99px;
+    display: flex;
+    justify-content: center;
+}
+.textpage ul li{
+  
+    display: flex;
+    display: inline;
+    margin-right: 3vmin;
+}
+.backgrd{
+    height: 70vmin;
+    background-image: url("back2.jpg");
+    background-size: cover;
+    opacity: 0.9;
+}
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 15vmin;
+    margin-left: -160vmin;
+}
+.cline{
+    display: flex;
+    justify-content: center;
+    margin-left: 160vmin;
+}
+.line3{
+    height: 40vmin;
+    width: 0.9vmin;
+    background-color: white;
+}
+.ctext{
+    align-items: center;
+    width: 150vmin;
+   
+    font-size: 10vmin;
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+    border: 2px solid black;
+}
+.are p{
+    font-size: 6vmin;
+    padding-right: 200px;
+}
+.aftermain{
+    height: 25vmin;
+    background-color: #040D12;
+}
+.container4{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 3vmin;
+}
+.afterdiv{
+    height: 19vmin;
+    width: 100vmin;
+  
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: white;
+   font-size: 5vmin;
+}
+.aftericon{
+    padding-right: 1vmin;
+}
+
+.aftersection{
+    height: 67vmin;
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    padding-top: 15vmin;
+    justify-content: space-evenly;
+  
+}
+.afterpic{
+    height: 60vmin;
+    width: 60vmin;
+    background-image: url("man.png");
+    background-size: cover;
+    margin-top: -10vmin;
+
+}
+
+.aabout{
+    font-size: 6vmin;
+    border-bottom: 2px solid black;
+}
+.abtext{
+    margin-top: 2vmin;
+    width: 100vmin;
+    font-size: 3vmin;
+    
+}
+.helbut{
+    height: 7vmin;
+    width: 17vmin;
+    margin-top: 5vmin;
+   
+    border-radius: 3vmin;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.helbut:hover{
+    font-size: 2vmin;
+}
+.aftermain2{
+    height: 70vmin;
+    background-image: url("globe.jpg");
+    background-size: cover;
+
+}
+.container5{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10vmin;
+  
+   
+}
+.mainpe{
+    width: 27vmin;
+   font-size: 5vmin;
+   padding-top: 10vmin;
+   margin-left: 18vmin;
+   border-bottom: 2px solid black;
+
+}
+.c5box1{
+    height: 26vmin;
+    width: 50vmin;
+    background-image: url("c51.jpg");
+    background-size: cover;
+    
+}
+.c5box2{
+    height: 26vmin;
+    width: 50vmin;
+    background-image: url("c52.jpg");
+    background-size: cover;
+}
+.c5box3{
+    height: 26vmin;
+    width: 50vmin;
+    background-image: url("c53.jpg");
+    background-size: cover;
+}
+.container5 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7vmin;
+    margin-top: 22vmin;
+    width: 34vh;
+    color: white;
+    font-size: 4vmin;
+    background-color: #040D12;
+    margin-left: 16vmin;
+    border-top-left-radius: 4vmin;
+    border-bottom-left-radius: 4vmin;
+}
